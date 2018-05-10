@@ -1,0 +1,383 @@
+id,weight
+dioKit/Common/Internals/Soundpipe/lib/fft/fft.c,3215
+dioKit/Common/Internals/Soundpipe/soundpipe.h,1260
+dioKit/Common/Internals/Sporth/ugens/basic.c,1077
+dioKit/Common/Internals/Soundpipe/modules/zitarev.c,1062
+dioKit/Common/Internals/EZAudio/EZAudioUtilities.m,744
+dioKit/Common/Internals/Sporth/plumber.c,590
+dioKit/Common/Internals/EZAudio/EZOutput.m,753
+dioKit/Common/Internals/EZAudio/EZAudioFile.m,735
+dioKit/Common/Internals/EZAudio/EZMicrophone.m,637
+dioKit/Common/Internals/EZAudio/EZAudioPlotGL.m,548
+dioKit/Common/Internals/EZAudio/EZAudioDevice.m,475
+dioKit/Common/Internals/EZAudio/EZAudioPlot.m,453
+dioKit/Common/Internals/Soundpipe/lib/kissfft/kiss_fft.c,408
+dioKit/Common/Internals/Soundpipe/modules/phaser.c,371
+dioKit/Common/Internals/EZAudio/EZRecorder.m,456
+dioKit/Common/Internals/Soundpipe/modules/pitchamdf.c,345
+dioKit/Common/Internals/Sporth/ugens/poly.c,319
+dioKit/Common/Internals/Soundpipe/test/md5.c,392
+dioKit/Common/Internals/EZAudio/EZAudioFFT.m,444
+dioKit/Common/Internals/EZAudio/EZAudioPlayer.m,445
+dioKit/Common/Internals/Sporth/ugens/poly/poly.c,308
+dioKit/Common/Internals/Soundpipe/modules/jcrev.c,327
+dioKit/Common/Nodes/Generators/Physical Models/Drip/AKDripAudioUnit.mm,328
+dioKit/Common/Internals/Sporth/parse.c,222
+dioKit/Common/Nodes/Generators/Physical Models/Drip/AKDripDSPKernel.hpp,279
+dioKit/Common/Internals/Soundpipe/modules/ftbl.c,270
+dioKit/Common/Internals/Soundpipe/modules/prop.c,242
+dioKit/Common/Internals/Soundpipe/modules/drip.c,231
+dioKit/Common/Nodes/Generators/Oscillators/Morphing Oscillator/AKMorphingOscillatorAudioUnit.mm,284
+dioKit/Common/Nodes/Generators/Oscillators/FM Oscillator/AKFMOscillatorAudioUnit.mm,284
+dioKit/Common/Internals/Soundpipe/modules/revsc.c,276
+dioKit/Common/Internals/Sporth/ugens/t.c,220
+dioKit/Common/Internals/EZAudio/EZAudio.m,307
+dioKit/Common/Internals/Soundpipe/modules/conv.c,246
+dioKit/Common/Nodes/Generators/Oscillators/Square Wave/AKSquareWaveOscillatorAudioUnit.mm,278
+dioKit/Common/Internals/Sporth/ugens/zitarev.c,198
+dioKit/Common/Nodes/Effects/Filters/Roland TB-303 Filter/AKRolandTB303FilterAudioUnit.mm,270
+dioKit/Common/Internals/Soundpipe/modules/mincer.c,251
+dioKit/Common/Nodes/Effects/Distortion/Tanh Distortion/AKTanhDistortionAudioUnit.mm,270
+dioKit/Common/Nodes/Effects/Envelopes/Amplitude Envelope/AKAmplitudeEnvelopeAudioUnit.mm,269
+dioKit/Common/Nodes/Generators/Oscillators/FM Oscillator/AKFMOscillatorDSPKernel.hpp,241
+dioKit/Common/Nodes/Generators/Oscillators/Oscillator/AKOscillatorAudioUnit.mm,266
+dioKit/Common/Internals/Soundpipe/modules/autowah.c,215
+dioKit/Common/Internals/Sporth/ugens/oscmorph.c,208
+dioKit/Common/Nodes/Generators/Oscillators/Morphing Oscillator/AKMorphingOscillatorDSPKernel.hpp,236
+dioKit/Common/Nodes/Generators/Oscillators/Sawtooth/AKSawtoothOscillatorAudioUnit.mm,260
+dioKit/Common/Nodes/Generators/Oscillators/Triangle/AKTriangleOscillatorAudioUnit.mm,260
+dioKit/.jazzy.yaml,192
+dioKit/Common/Nodes/Effects/Filters/High Shelf Parametric Equalizer Filter/AKHighShelfParametricEqualizerFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Filters/Three Pole Low Pass Filter/AKThreePoleLowpassFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Playback/Phase-Locked Vocoder/AKPhaseLockedVocoderAudioUnit.mm,256
+dioKit/Common/Nodes/Effects/Filters/Low Shelf Parametric Equalizer Filter/AKLowShelfParametricEqualizerFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Filters/Equalizer Filter/AKEqualizerFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Filters/Auto Wah/AKAutoWahAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Distortion/Clipper/AKClipperAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Filters/Formant Filter/AKFormantFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Effects/Filters/Peaking Parametric Equalizer Filter/AKPeakingParametricEqualizerFilterAudioUnit.mm,255
+dioKit/Common/Nodes/Generators/Oscillators/Square Wave/AKSquareWaveOscillatorDSPKernel.hpp,226
+dioKit/Common/Internals/Soundpipe/modules/bltriangle.c,202
+dioKit/Common/Nodes/Effects/Filters/Moog Ladder/AKMoogLadderAudioUnit.mm,246
+dioKit/Common/Nodes/Generators/Oscillators/Oscillator/AKOscillatorDSPKernel.hpp,214
+dioKit/Common/Nodes/Effects/Filters/Modal Resonance Filter/AKModalResonanceFilterAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Distortion/Bit Crusher/AKBitCrusherAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Reverb/Costello Reverb/AKCostelloReverbAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Filters/Band Reject Butterworth Filter/AKBandRejectButterworthFilterAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Delay/Variable Delay/AKVariableDelayAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Filters/String Resonator/AKStringResonatorAudioUnit.mm,240
+dioKit/Common/Nodes/Effects/Filters/Band Pass Butterworth Filter/AKBandPassButterworthFilterAudioUnit.mm,240
+dioKit/Common/Nodes/Generators/Physical Models/Plucked String/AKPluckedStringAudioUnit.mm,240
+dioKit/Common/Internals/Soundpipe/modules/bar.c,187
+dioKit/Common/Internals/Soundpipe/modules/blsquare.c,185
+dioKit/Common/Nodes/Generators/Oscillators/Sawtooth/AKSawtoothOscillatorDSPKernel.hpp,204
+dioKit/Common/Nodes/Generators/Oscillators/Triangle/AKTriangleOscillatorDSPKernel.hpp,204
+dioKit/Common/Nodes/Effects/Reverb/Comb Filter Reverb/AKCombFilterReverbAudioUnit.mm,229
+dioKit/Common/Nodes/Effects/Reverb/Flat Frequency Response Reverb/AKFlatFrequencyResponseReverbAudioUnit.mm,229
+dioKit/Common/Nodes/Analysis/Amplitude Tracker/AKAmplitudeTrackerAudioUnit.mm,229
+dioKit/Common/Internals/EZAudio/EZAudioFloatConverter.m,224
+dioKit/Common/Internals/Soundpipe/lib/inih/ini.c,185
+dioKit/Common/Nodes/Effects/Filters/High Pass Butterworth Filter/AKHighPassButterworthFilterAudioUnit.mm,225
+dioKit/Common/Nodes/Effects/Filters/Low Pass Butterworth Filter/AKLowPassButterworthFilterAudioUnit.mm,225
+dioKit/Common/Nodes/Mixing/Panner/AKPannerAudioUnit.mm,225
+dioKit/Common/Nodes/Effects/Filters/Tone Filter/AKToneFilterAudioUnit.mm,225
+dioKit/Common/Nodes/Effects/Filters/Tone Complement Filter/AKToneComplementFilterAudioUnit.mm,225
+dioKit/Common/Nodes/Playback/Phase-Locked Vocoder/AKPhaseLockedVocoderDSPKernel.hpp,191
+dioKit/Common/Nodes/Effects/AudioKit Operation-Based Effect/AKOperationEffectAudioUnit.mm,225
+dioKit/Common/Internals/Soundpipe/modules/base.c,191
+dioKit/Common/Nodes/Mixing/Balancer/AKBalancerAudioUnit.mm,225
+dioKit/Common/Nodes/Analysis/Frequency Tracker/AKFrequencyTrackerAudioUnit.mm,224
+dioKit/Common/Internals/Soundpipe/modules/tadsr.c,152
+dioKit/Common/Internals/Testing/AKTesterAudioUnit.mm,221
+dioKit/Common/Nodes/Effects/Distortion/Tanh Distortion/AKTanhDistortionDSPKernel.hpp,181
+dioKit/Common/Nodes/Effects/Reverb/Convolution/AKConvolutionAudioUnit.mm,217
+dioKit/Common/Nodes/Effects/Envelopes/Amplitude Envelope/AKAmplitudeEnvelopeDSPKernel.hpp,183
+dioKit/Common/Nodes/Effects/Filters/Roland TB-303 Filter/AKRolandTB303FilterDSPKernel.hpp,181
+dioKit/Common/Internals/Soundpipe/modules/blsaw.c,173
+dioKit/Common/Nodes/Effects/Filters/DC Block/AKDCBlockAudioUnit.mm,210
+dioKit/Common/Nodes/Effects/Reverb/Chowning Reverb/AKChowningReverbAudioUnit.mm,210
+dioKit/Common/Internals/Sporth/h/ugens.h,125
+dioKit/Common/Nodes/Generators/Noise/White Noise/AKWhiteNoiseAudioUnit.mm,204
+dioKit/Common/Nodes/Generators/AudioKit Operation-Based Generator/AKOperationGeneratorAudioUnit.mm,206
+dioKit/Common/Nodes/Generators/Noise/Pink Noise/AKPinkNoiseAudioUnit.mm,204
+dioKit/Common/Nodes/Effects/Filters/High Shelf Parametric Equalizer Filter/AKHighShelfParametricEqualizerFilterDSPKernel.hpp,166
+dioKit/Common/Nodes/Effects/Filters/Peaking Parametric Equalizer Filter/AKPeakingParametricEqualizerFilterDSPKernel.hpp,166
+dioKit/Common/Nodes/Effects/Filters/Low Shelf Parametric Equalizer Filter/AKLowShelfParametricEqualizerFilterDSPKernel.hpp,166
+dioKit/Common/Nodes/Effects/Filters/Auto Wah/AKAutoWahDSPKernel.hpp,165
+dioKit/Common/Nodes/Generators/Physical Models/Plucked String/AKPluckedStringDSPKernel.hpp,167
+dioKit/Common/Nodes/Effects/Filters/Three Pole Low Pass Filter/AKThreePoleLowpassFilterDSPKernel.hpp,165
+dioKit/Common/Nodes/Effects/Filters/Equalizer Filter/AKEqualizerFilterDSPKernel.hpp,165
+dioKit/Common/Nodes/Effects/Filters/Formant Filter/AKFormantFilterDSPKernel.hpp,165
+dioKit/Common/Nodes/Effects/Distortion/Clipper/AKClipperDSPKernel.hpp,165
+dioKit/Common/Nodes/Effects/Delay/Variable Delay/AKVariableDelayDSPKernel.hpp,162
+dioKit/Common/Internals/EZAudio/EZAudioUtilities.h,549
+dioKit/Common/Internals/Soundpipe/lib/kissfft/kiss_fftr.c,159
+dioKit/Common/Internals/EZAudio/EZAudioDisplayLink.m,180
+dioKit/Common/Nodes/Effects/Reverb/Costello Reverb/AKCostelloReverbDSPKernel.hpp,155
+dioKit/Common/Internals/Soundpipe/lib/kissfft/_kiss_fft_guts.h,168
+dioKit/Common/Internals/Sporth/h/plumber.h,131
+dioKit/Common/Internals/Soundpipe/modules/pinknoise.c,138
+dioKit/Common/Nodes/Generators/AudioKit Operation-Based Generator/AKOperationGeneratorDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Filters/Modal Resonance Filter/AKModalResonanceFilterDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Filters/Band Reject Butterworth Filter/AKBandRejectButterworthFilterDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Distortion/Bit Crusher/AKBitCrusherDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Filters/Moog Ladder/AKMoogLadderDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Filters/String Resonator/AKStringResonatorDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/Filters/Band Pass Butterworth Filter/AKBandPassButterworthFilterDSPKernel.hpp,149
+dioKit/Common/Nodes/Effects/AudioKit Operation-Based Effect/AKOperationEffectDSPKernel.hpp,144
+dioKit/Common/Internals/Soundpipe/modules/fftwrapper.c,126
+dioKit/Common/Nodes/Mixing/Panner/AKPannerDSPKernel.hpp,141
+dioKit/Common/Nodes/Generators/Noise/Pink Noise/AKPinkNoiseDSPKernel.hpp,139
+dioKit/Common/Nodes/Generators/Noise/White Noise/AKWhiteNoiseDSPKernel.hpp,139
+dioKit/Common/Nodes/Effects/Reverb/Flat Frequency Response Reverb/AKFlatFrequencyResponseReverbDSPKernel.hpp,137
+dioKit/Common/Nodes/Effects/Reverb/Comb Filter Reverb/AKCombFilterReverbDSPKernel.hpp,137
+dioKit/Common/Nodes/Analysis/Amplitude Tracker/AKAmplitudeTrackerDSPKernel.hpp,135
+dioKit/Common/Internals/Soundpipe/modules/gbuzz.c,120
+dioKit/Common/Nodes/Effects/Filters/Low Pass Butterworth Filter/AKLowPassButterworthFilterDSPKernel.hpp,133
+dioKit/Common/Internals/Soundpipe/modules/pareq.c,115
+dioKit/Common/Nodes/Effects/Filters/Tone Filter/AKToneFilterDSPKernel.hpp,133
+dioKit/Common/Nodes/Effects/Filters/Tone Complement Filter/AKToneComplementFilterDSPKernel.hpp,133
+dioKit/Common/Nodes/Effects/Filters/High Pass Butterworth Filter/AKHighPassButterworthFilterDSPKernel.hpp,133
+dioKit/Common/Internals/Soundpipe/modules/clip.c,113
+dioKit/Common/Nodes/Effects/Reverb/Convolution/AKConvolutionDSPKernel.hpp,131
+dioKit/Common/Internals/EZAudio/EZAudio.h,528
+dioKit/Common/Internals/EZAudio/TPCircularBuffer.c,136
+dioKit/Common/Nodes/Analysis/Frequency Tracker/AKFrequencyTrackerDSPKernel.hpp,126
+dioKit/Common/Internals/Testing/AKTesterDSPKernel.hpp,125
+dioKit/Common/Internals/Soundpipe/modules/pluck.c,111
+dioKit/Common/Internals/Sporth/stack.c,100
+dioKit/Common/Internals/Sporth/ugens/gbuzz.c,89
+dioKit/Common/Internals/Soundpipe/modules/tenvx.c,92
+dioKit/Common/Internals/Soundpipe/test/test.c,88
+dioKit/Common/Nodes/Mixing/Balancer/AKBalancerDSPKernel.hpp,122
+dioKit/Common/Internals/Soundpipe/modules/adsr.c,88
+dioKit/Common/Internals/Sporth/func.c,89
+dioKit/Common/Internals/Sporth/ugens/fm.c,89
+dioKit/Common/Internals/Soundpipe/modules/moogladder.c,102
+dioKit/Common/Internals/Soundpipe/modules/randmt.c,136
+dioKit/Common/Internals/Soundpipe/modules/vdelay.c,97
+dioKit/Common/Nodes/Effects/Reverb/Chowning Reverb/AKChowningReverbDSPKernel.hpp,114
+dioKit/Common/Internals/Sporth/ugens/tabread.c,83
+dioKit/Common/Nodes/Effects/Filters/DC Block/AKDCBlockDSPKernel.hpp,114
+dioKit/Common/Internals/EZAudio/EZRecorder.h,364
+dioKit/Common/Internals/Soundpipe/modules/tenv.c,85
+dioKit/Common/Internals/EZAudio/EZAudioPlayer.h,423
+dioKit/Common/Internals/Soundpipe/modules/fosc.c,101
+dioKit/Common/Internals/EZAudio/EZAudioFFT.h,392
+dioKit/Common/Internals/Soundpipe/modules/lpf18.c,97
+dioKit/Common/Internals/Sporth/hash.c,87
+dioKit/Common/Internals/Soundpipe/modules/rpt.c,77
+dioKit/Common/Internals/Soundpipe/modules/padsynth.c,114
+dioKit/Common/Internals/Sporth/ugens/tseq.c,86
+dioKit/Common/Internals/Soundpipe/modules/randi.c,96
+dioKit/Common/Internals/Sporth/ugens/vdelay.c,77
+dioKit/Common/Internals/Sporth/ugens/osc.c,83
+dioKit/Common/Internals/Sporth/ugens/pluck.c,84
+dioKit/Common/Internals/EZAudio/EZOutput.h,376
+dioKit/Common/Internals/Sporth/ugens/mincer.c,81
+dioKit/Common/Internals/Sporth/ugens/rpt.c,76
+dioKit/Common/Internals/Soundpipe/modules/tbvcf.c,112
+dioKit/Common/Internals/Sporth/ugens/p.c,79
+dioKit/Common/Internals/Soundpipe/modules/oscmorph.c,81
+dioKit/Common/Internals/Sporth/ugens/tblrec.c,79
+dioKit/Common/Internals/Sporth/h/sporth.h,81
+dioKit/Common/Internals/Soundpipe/modules/posc3.c,87
+dioKit/Common/Internals/Sporth/ugens/tadsr.c,73
+dioKit/Common/Internals/Sporth/ugens/dist.c,72
+dioKit/Common/Internals/EZAudio/EZAudioFile.h,380
+dioKit/Common/Internals/Sporth/ugens/blsquare.c,69
+dioKit/Common/Internals/Sporth/ugens/jitter.c,68
+dioKit/Common/Internals/EZAudio/EZMicrophone.h,381
+dioKit/Common/Internals/Soundpipe/modules/streson.c,82
+dioKit/Common/Internals/Sporth/ugens/tenvx.c,68
+dioKit/Common/Internals/Soundpipe/modules/butbp.c,83
+dioKit/Common/Internals/Sporth/ugens/conv.c,72
+dioKit/Common/Internals/Sporth/ugens/autowah.c,67
+dioKit/Common/Internals/Soundpipe/modules/fofilt.c,88
+dioKit/Common/Internals/Soundpipe/modules/butlp.c,82
+dioKit/Common/Internals/Soundpipe/modules/buthp.c,85
+dioKit/Common/Internals/EZAudio/TPCircularBuffer.h,195
+dioKit/Common/Internals/Soundpipe/modules/tenv2.c,67
+dioKit/Common/Internals/Soundpipe/modules/butbr.c,78
+dioKit/Common/Internals/Sporth/ugens/tphasor.c,66
+dioKit/Common/Internals/Soundpipe/modules/biquad.c,83
+dioKit/Common/Internals/Sporth/ugens/gen_padsynth.c,72
+dioKit/Common/Internals/Sporth/ugens/expon.c,64
+dioKit/Common/Internals/Sporth/ugens/randh.c,64
+dioKit/Common/Internals/Sporth/ugens/randi.c,63
+dioKit/Common/Internals/Soundpipe/modules/mode.c,87
+dioKit/Common/Internals/Sporth/ugens/prop.c,61
+dioKit/Common/Internals/Sporth/ugens/line.c,64
+dioKit/Common/Internals/Sporth/ugens/scale.c,64
+dioKit/Common/Internals/Sporth/ugens/biscale.c,62
+dioKit/Common/Internals/Sporth/ugens/tenv2.c,63
+dioKit/Common/Internals/Sporth/ugens/streson.c,63
+dioKit/Common/Internals/Soundpipe/modules/tabread.c,77
+dioKit/Common/Internals/Sporth/ugens/mode.c,63
+dioKit/Common/Internals/Sporth/ugens/poly/poly.h,66
+dioKit/Common/Internals/Sporth/ugens/count.c,62
+dioKit/Common/Internals/Soundpipe/modules/jitter.c,79
+dioKit/Common/Internals/Sporth/ugens/bitcrush.c,62
+dioKit/Common/Internals/Sporth/ugens/trand.c,62
+dioKit/Common/Internals/EZAudio/EZAudioPlotGL.h,251
+dioKit/Common/Internals/Sporth/ugens/moogladder.c,62
+dioKit/Common/Internals/Sporth/ugens/bal.c,62
+dioKit/Common/Internals/Sporth/ugens/revsc.c,74
+dioKit/Common/Internals/Sporth/ugens/delay.c,62
+dioKit/Common/Internals/Sporth/ugens/comb.c,62
+dioKit/Common/Internals/Sporth/ugens/allpass.c,62
+dioKit/Common/Internals/Soundpipe/modules/expon.c,76
+dioKit/Common/Internals/Sporth/ugens/pan.c,61
+dioKit/Common/Internals/Sporth/ugens/switch.c,62
+dioKit/Common/Internals/CoreAudio/AKParameterRamper.hpp,89
+dioKit/Common/Internals/Sporth/ugens/tenv.c,65
+dioKit/Common/Internals/Sporth/ugens/thresh.c,60
+dioKit/Common/Internals/Sporth/ugens/f.c,67
+dioKit/Common/Internals/Soundpipe/modules/panst.c,73
+dioKit/Common/Internals/Soundpipe/modules/pan2.c,85
+dioKit/Common/Internals/Sporth/ugens/dmetro.c,59
+dioKit/Common/Internals/Sporth/ugens/maytrig.c,60
+dioKit/Common/Internals/Sporth/ugens/maygate.c,59
+dioKit/Common/Internals/Sporth/ugens/blsaw.c,58
+dioKit/Common/Internals/Sporth/ugens/bltriangle.c,58
+dioKit/Common/Internals/Sporth/ugens/atone.c,57
+dioKit/Common/Internals/Sporth/ugens/butlp.c,57
+ameworks/build_frameworks.sh,61
+dioKit/Common/Internals/Soundpipe/modules/dust.c,71
+dioKit/Common/Internals/Sporth/ugens/gen_line.c,60
+dioKit/Common/Internals/Sporth/ugens/clip.c,57
+dioKit/Common/Internals/Sporth/ugens/phasor.c,57
+dioKit/Common/Internals/Sporth/ugens/tone.c,56
+dioKit/Common/Internals/Sporth/ugens/gen_sinesum.c,60
+dioKit/Common/Internals/Sporth/ugens/buthp.c,57
+dioKit/Common/Internals/AudioKit.h,93
+dioKit/Common/Internals/Soundpipe/modules/eqfil.c,75
+dioKit/Common/Internals/Soundpipe/modules/dist.c,73
+dioKit/Common/Internals/Sporth/ugens/samphold.c,57
+dioKit/Common/Internals/Soundpipe/modules/bal.c,76
+dioKit/Common/Internals/Sporth/ugens/reverse.c,56
+dioKit/Common/Internals/CoreAudio/AKBufferedAudioBus.hpp,94
+dioKit/Common/Internals/Soundpipe/modules/comb.c,71
+dioKit/Common/Internals/Sporth/ugens/gen_vals.c,64
+dioKit/Common/Internals/Soundpipe/lib/kissfft/kiss_fft.h,128
+dioKit/Common/Internals/Soundpipe/modules/line.c,57
+dioKit/Common/Internals/Soundpipe/modules/osc.c,68
+dioKit/Common/Internals/Sporth/ugens/pinknoise.c,54
+dioKit/Common/Internals/Soundpipe/modules/dtrig.c,52
+dioKit/Common/Internals/Sporth/ugens/rms.c,52
+dioKit/Common/Internals/Sporth/ugens/tin.c,52
+dioKit/Common/Internals/Sporth/ugens/jcrev.c,52
+dioKit/Common/Internals/Soundpipe/modules/delay.c,51
+dioKit/Common/Internals/Sporth/ugens/port.c,54
+dioKit/Common/Internals/Sporth/ugens/noise.c,47
+dioKit/Common/Internals/Soundpipe/modules/thresh.c,67
+dioKit/Common/Internals/Soundpipe/modules/tone.c,68
+dioKit/Common/Internals/Sporth/ugens/dcblock.c,46
+dioKit/Common/Internals/Soundpipe/modules/atone.c,63
+dioKit/Common/Internals/Sporth/ugens/tick.c,46
+dioKit/Common/Internals/Sporth/ugens/tog.c,47
+dioKit/Common/Internals/Sporth/ugens/gen_sine.c,51
+dioKit/Common/Internals/Soundpipe/modules/progress.c,48
+dioKit/Common/Internals/Soundpipe/modules/allpass.c,60
+dioKit/Common/Internals/CoreAudio/AKDSPKernel.mm,76
+dioKit/Common/Internals/Sporth/ugens/zeros.c,49
+dioKit/Common/Internals/EZAudio/EZAudioFloatData.m,85
+dioKit/Common/Internals/Soundpipe/modules/metro.c,57
+dioKit/Common/Internals/Sporth/ugens/metro.c,43
+dioKit/Common/Internals/Soundpipe/modules/count.c,44
+dioKit/Common/Internals/Soundpipe/modules/bitcrush.c,43
+ameworks/build_packages.sh,52
+dioKit/Common/Internals/Soundpipe/modules/maygate.c,43
+dioKit/Common/Internals/Soundpipe/modules/rms.c,60
+dioKit/Common/Internals/EZAudio/EZAudioPlot.h,207
+dioKit/Common/Internals/Soundpipe/modules/port.c,58
+dioKit/Common/Internals/Soundpipe/modules/fold.c,53
+dioKit/Common/Internals/Soundpipe/modules/phasor.c,53
+dioKit/Common/Internals/Soundpipe/modules/tevent.c,40
+dioKit/Common/Internals/EZAudio/EZPlot.h,142
+dioKit/Common/Internals/EZAudio/EZAudioDevice.h,187
+dioKit/Common/Internals/Soundpipe/modules/randh.c,38
+dioKit/Common/Internals/Soundpipe/modules/dcblock.c,51
+dioKit/Common/Internals/Soundpipe/lib/inih/ini.h,77
+dioKit/Common/Internals/Soundpipe/modules/tseq.c,37
+dioKit/Common/Internals/Soundpipe/test/md5.h,93
+dioKit/Common/Internals/Sporth/ugens/in.c,33
+dioKit/Common/Internals/Soundpipe/modules/reverse.c,34
+amples/iOS/HelloObjectiveC/HelloObjectiveC/ViewController.m,50
+dioKit/Common/Internals/Soundpipe/modules/switch.c,36
+dioKit/Common/Internals/Soundpipe/modules/trand.c,33
+dioKit/Common/Internals/Soundpipe/modules/dmetro.c,35
+dioKit/Common/Internals/Soundpipe/modules/random.c,31
+dioKit/Common/Internals/Soundpipe/modules/tin.c,31
+dioKit/Common/Internals/Soundpipe/modules/noise.c,29
+dioKit/Common/Internals/Soundpipe/modules/samphold.c,29
+dioKit/Common/Internals/Soundpipe/modules/in.c,29
+dioKit/Common/Internals/Soundpipe/modules/scale.c,27
+dioKit/Common/Internals/Soundpipe/modules/biscale.c,27
+dioKit/Common/Internals/Soundpipe/modules/foo.c,36
+dioKit/Common/Internals/EZAudio/EZAudioFloatConverter.h,75
+dioKit/Common/Internals/Soundpipe/test/test.h,24
+dioKit/Common/Internals/CoreAudio/AKDSPKernel.hpp,36
+sts/OSXAudioKit/OSXAudioKit/AKAudioUnitRenderCallback.m,29
+dioKit/Common/Internals/EZAudio/EZAudioDisplayLink.h,94
+amples/iOS/HelloObjectiveC/HelloObjectiveC/AppDelegate.m,45
+sts/travis.sh,24
+dioKit/Common/Nodes/Generators/Physical Models/Drip/AKDripAudioUnit.h,29
+dioKit/Common/Internals/Soundpipe/lib/kissfft/kiss_fftr.h,49
+dioKit/Common/Nodes/Generators/Oscillators/Morphing Oscillator/AKMorphingOscillatorAudioUnit.h,28
+dioKit/Common/Nodes/Generators/Oscillators/FM Oscillator/AKFMOscillatorAudioUnit.h,28
+dioKit/Common/Nodes/Generators/Oscillators/Oscillator/AKOscillatorAudioUnit.h,27
+dioKit/.swiftlint.yml,20
+dioKit/Common/Nodes/Generators/Oscillators/Square Wave/AKSquareWaveOscillatorAudioUnit.h,26
+dioKit/Common/Internals/Soundpipe/lib/faust/CUI.h,17
+dioKit/Common/Nodes/Playback/Phase-Locked Vocoder/AKPhaseLockedVocoderAudioUnit.h,26
+dioKit/Common/Nodes/Generators/Oscillators/Triangle/AKTriangleOscillatorAudioUnit.h,25
+dioKit/Common/Nodes/Generators/Oscillators/Sawtooth/AKSawtoothOscillatorAudioUnit.h,25
+dioKit/Common/Nodes/Generators/AudioKit Operation-Based Generator/AKOperationGeneratorAudioUnit.h,23
+dioKit/Common/Nodes/Analysis/Frequency Tracker/AKFrequencyTrackerAudioUnit.h,23
+dioKit/Common/Internals/EZAudio/EZPlot.m,43
+dioKit/Common/Nodes/Generators/Physical Models/Plucked String/AKPluckedStringAudioUnit.h,24
+dioKit/Common/Nodes/Effects/Filters/Moog Ladder/AKMoogLadderAudioUnit.h,24
+ameworks/fix-framework.sh,18
+dioKit/Common/Internals/EZAudio/EZAudioFloatData.h,52
+dioKit/Common/Nodes/Effects/Reverb/Convolution/AKConvolutionAudioUnit.h,24
+dioKit/Common/Nodes/Effects/AudioKit Operation-Based Effect/AKOperationEffectAudioUnit.h,23
+dioKit/Common/Internals/Testing/AKTesterAudioUnit.h,22
+dioKit/Common/Nodes/Analysis/Amplitude Tracker/AKAmplitudeTrackerAudioUnit.h,21
+dioKit/Common/Nodes/Generators/Noise/White Noise/AKWhiteNoiseAudioUnit.h,21
+dioKit/Common/Nodes/Effects/Reverb/Comb Filter Reverb/AKCombFilterReverbAudioUnit.h,21
+dioKit/Common/Nodes/Effects/Reverb/Flat Frequency Response Reverb/AKFlatFrequencyResponseReverbAudioUnit.h,21
+dioKit/Common/Nodes/Generators/Noise/Pink Noise/AKPinkNoiseAudioUnit.h,21
+dioKit/Common/Nodes/Effects/Filters/Three Pole Low Pass Filter/AKThreePoleLowpassFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Reverb/Costello Reverb/AKCostelloReverbAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Roland TB-303 Filter/AKRolandTB303FilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Distortion/Clipper/AKClipperAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/DC Block/AKDCBlockAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Equalizer Filter/AKEqualizerFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Peaking Parametric Equalizer Filter/AKPeakingParametricEqualizerFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Tone Complement Filter/AKToneComplementFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Envelopes/Amplitude Envelope/AKAmplitudeEnvelopeAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Band Pass Butterworth Filter/AKBandPassButterworthFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Low Pass Butterworth Filter/AKLowPassButterworthFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Formant Filter/AKFormantFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Delay/Variable Delay/AKVariableDelayAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/String Resonator/AKStringResonatorAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Modal Resonance Filter/AKModalResonanceFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Distortion/Tanh Distortion/AKTanhDistortionAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Reverb/Chowning Reverb/AKChowningReverbAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/High Shelf Parametric Equalizer Filter/AKHighShelfParametricEqualizerFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Low Shelf Parametric Equalizer Filter/AKLowShelfParametricEqualizerFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Band Reject Butterworth Filter/AKBandRejectButterworthFilterAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/High Pass Butterworth Filter/AKHighPassButterworthFilterAudioUnit.h,20
+ravis.yml,9
+dioKit/Common/Nodes/Effects/Filters/Tone Filter/AKToneFilterAudioUnit.h,20
+dioKit/Common/Nodes/Mixing/Panner/AKPannerAudioUnit.h,20
+dioKit/Common/Nodes/Mixing/Balancer/AKBalancerAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Distortion/Bit Crusher/AKBitCrusherAudioUnit.h,20
+dioKit/Common/Nodes/Effects/Filters/Auto Wah/AKAutoWahAudioUnit.h,20
+amples/iOS/HelloObjectiveC/HelloObjectiveC/main.m,16
+sts/OSXAudioKit/OSXAudioKitTests/OSXAudioKitTests-Bridging-Header.h,8
+amples/iOS/HelloObjectiveC/HelloObjectiveC/AppDelegate.h,17
+amples/iOS/HelloObjectiveC/HelloObjectiveC/ViewController.h,15
+sts/OSXAudioKit/OSXAudioKitTests/OSXAudioKit-Bridging-Header.h,6
+ameworks/fix_paths.sed,1

@@ -1,0 +1,9 @@
+id,weight
+adlew,164
+dequality/checkstyle.xml,188
+adlew.bat,90
+mplate-client/src/main/java/com/netflix/template/client/TalkClient.java,36
+mplate-server/src/main/webapp/WEB-INF/web.xml,25
+mplate-server/src/main/java/com/netflix/template/server/TalkServer.java,26
+mplate-client/src/main/java/com/netflix/template/common/Sentence.java,25
+mplate-client/src/main/java/com/netflix/template/common/Conversation.java,6

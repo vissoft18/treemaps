@@ -1,0 +1,17 @@
+id,weight
+Autobahn/index.html,5943
+src/uWS.cpp,1119
+benchmarks/bench1.cpp,121
+src/uWS.h,106
+benchmarks/bench2.cpp,85
+benchmarks/bench3.cpp,67
+main.cpp,72
+examples/multithreaded_echo.cpp,57
+benchmarks/wsPP.cpp,54
+examples/echo.cpp,32
+benchmarks/uWS.cpp,24
+Makefile,13
+uWebSockets.pro,18
+benchmarks/Makefile,12
+benchmarks/ws.js,8
+examples/Makefile,6

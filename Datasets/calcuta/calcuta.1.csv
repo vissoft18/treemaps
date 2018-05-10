@@ -1,0 +1,12 @@
+id,weight
+p/src/main/AndroidManifest.xml,21
+p/src/main/java/com/iwsbrazil/calcuta/CalcutaApplication.java,24
+p/src/androidTest/java/com/iwsbrazil/calcuta/ExampleInstrumentedTest.java,26
+p/src/main/res/values/colors.xml,12
+p/src/main/res/values/styles.xml,16
+p/src/main/java/com/iwsbrazil/calcuta/MainActivity.java,13
+p/src/test/java/com/iwsbrazil/calcuta/ExampleUnitTest.java,17
+p/src/main/res/layout/activity_main.xml,7
+p/src/main/res/values/dimens.xml,5
+p/src/main/res/values/strings.xml,3
+p/src/main/res/values-w820dp/dimens.xml,6

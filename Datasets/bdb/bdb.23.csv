@@ -1,0 +1,16 @@
+id,weight
+app/js/MockedDatabase.js,1224
+app/js/markers.js,1047
+app/scss/main.scss,990
+app/js/app.js,844
+app/js/Database.js,448
+app/index.html,309
+.eslintrc.js,57
+gulpfile.js,151
+app/js/globals.js,61
+package.json,41
+bower.json,25
+server.js,32
+app/js/utils.js,5
+app/js/gmapsCustomStyle.js,11
+app/404.html,1

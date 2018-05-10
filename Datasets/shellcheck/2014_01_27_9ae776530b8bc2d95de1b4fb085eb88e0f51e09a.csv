@@ -1,0 +1,11 @@
+id,weight
+ellCheck/Analytics.hs,2012
+ellCheck/Parser.hs,1940
+ellCheck/AST.hs,344
+ellcheck.hs,270
+ellCheck/Data.hs,74
+ellCheck/Simple.hs,67
+st/quackCheck.hs,65
+kefile,24
+st/runQuack,22
+tup.hs,2

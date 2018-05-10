@@ -1,0 +1,10 @@
+id,weight
+ellCheck/Analytics.hs,2976
+ellCheck/Parser.hs,2103
+ellCheck/AST.hs,357
+ellcheck.hs,348
+ellCheck/Data.hs,87
+ellCheck/Simple.hs,77
+st/shellcheck.hs,16
+ellCheck/Options.hs,14
+tup.hs,2

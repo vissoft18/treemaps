@@ -1,0 +1,15 @@
+id,weight
+Autobahn/index.html,5943
+uWS.cpp,832
+benchmarks/bench1.cpp,121
+benchmarks/bench2.cpp,85
+uWS.h,77
+benchmarks/bench3.cpp,67
+utf8.cpp,65
+benchmarks/wsPP.cpp,54
+main.cpp,40
+benchmarks/uWS.cpp,24
+uWebSockets.pro,17
+benchmarks/Makefile,12
+benchmarks/ws.js,8
+Makefile,6

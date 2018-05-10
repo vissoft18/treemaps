@@ -1,0 +1,14 @@
+id,weight
+lib/MockedDatabase.js,1171
+lib/markers.js,1047
+lib/style.css,587
+lib/app.js,469
+lib/gmapsCustomStyle.js,241
+views/index.html,241
+lib/Database.js,152
+.eslintrc.js,24
+package.json,24
+server.js,30
+lib/globals.js,23
+lib/jquery.min.js,4
+views/404.html,1

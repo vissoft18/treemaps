@@ -1,0 +1,16 @@
+id,weight
+ets/player/bpd.py,1087
+ets/library.py,719
+ets/mediafile.py,567
+st/test_mediafile.py,294
+st/test_autotag.py,229
+ets/autotag/__init__.py,323
+st/test_db.py,213
+st/test_files.py,184
+st/test_query.py,153
+ets/player/gstplayer.py,198
+ets/autotag/mb.py,167
+st/test_player.py,96
+tup.py,56
+st/testall.py,34
+ets/__init__.py,19

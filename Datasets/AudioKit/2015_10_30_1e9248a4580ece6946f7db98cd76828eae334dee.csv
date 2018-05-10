@@ -1,0 +1,187 @@
+id,weight
+dioKit/AudioKit/Internals/Soundpipe/soundpipe.h,447
+dioKit/AudioKit/Internals/Soundpipe/modules/jcrev.c,327
+dioKit/AudioKit/Internals/Soundpipe/modules/ftbl.c,255
+dioKit/AudioKit/Internals/Soundpipe/modules/revsc.c,276
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKFMOscillator/AKFMOscillatorAudioUnit.mm,273
+dioKit/AudioKit/Internals/Soundpipe/modules/base.c,190
+dioKit/AudioKit/Operations/Math/AKLinearTransformation/AKLinearTransformationAudioUnit.mm,258
+dioKit/AudioKit/Operations/Signal Modifiers/Effects/AKDistortion/AKDistortionAudioUnit.mm,258
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKRolandTB303Filter/AKRolandTB303FilterAudioUnit.mm,258
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKThreePoleLowpassFilter/AKThreePoleLowpassFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighShelfParametricEqualizerFilter/AKHighShelfParametricEqualizerFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowShelfParametricEqualizerFilter/AKLowShelfParametricEqualizerFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKFormantFilter/AKFormantFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKClipper/AKClipperAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKPeakingParametricEqualizerFilter/AKPeakingParametricEqualizerFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKEqualizerFilter/AKEqualizerFilterAudioUnit.mm,243
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKMoogLadder/AKMoogLadderAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKOscillator/AKOscillatorAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKStringResonator/AKStringResonatorAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandRejectButterworthFilter/AKBandRejectButterworthFilterAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDecimator/AKDecimatorAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandPassButterworthFilter/AKBandPassButterworthFilterAudioUnit.mm,228
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKModalResonanceFilter/AKModalResonanceFilterAudioUnit.mm,228
+dioKit/AudioKit/Internals/Soundpipe/lib/inih/ini.c,185
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighPassFilter/AKHighPassFilterAudioUnit.mm,213
+dioKit/AudioKit/Operations/Analysis/AKTrackedAmplitude/AKTrackedAmplitudeAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKCombFilter/AKCombFilterAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowPassFilter/AKLowPassFilterAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKHighPassButterworthFilter/AKHighPassButterworthFilterAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKVariableDelay/AKVariableDelayAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKDelay/AKDelayAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKFlatFrequencyResponseReverb/AKFlatFrequencyResponseReverbAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKLowPassButterworthFilter/AKLowPassButterworthFilterAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKPhasor/AKPhasorAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Generators/Random Generators/AKWhiteNoise/AKWhiteNoiseAudioUnit.mm,213
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKFMOscillator/AKFMOscillatorDSPKernel.hpp,179
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKChowningReverb/AKChowningReverbAudioUnit.mm,198
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDCBlock/AKDCBlockAudioUnit.mm,198
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKRolandTB303Filter/AKRolandTB303FilterDSPKernel.hpp,158
+dioKit/AudioKit/Operations/Signal Modifiers/Effects/AKDistortion/AKDistortionDSPKernel.hpp,158
+dioKit/AudioKit/Operations/Math/AKLinearTransformation/AKLinearTransformationDSPKernel.hpp,158
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKPeakingParametricEqualizerFilter/AKPeakingParametricEqualizerFilterDSPKernel.hpp,143
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighShelfParametricEqualizerFilter/AKHighShelfParametricEqualizerFilterDSPKernel.hpp,143
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowShelfParametricEqualizerFilter/AKLowShelfParametricEqualizerFilterDSPKernel.hpp,143
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKFormantFilter/AKFormantFilterDSPKernel.hpp,142
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKClipper/AKClipperDSPKernel.hpp,142
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKThreePoleLowpassFilter/AKThreePoleLowpassFilterDSPKernel.hpp,142
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKEqualizerFilter/AKEqualizerFilterDSPKernel.hpp,142
+dioKit/AudioKit/Internals/Soundpipe/modules/clip.c,113
+dioKit/AudioKit/Internals/Soundpipe/modules/pareq.c,115
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKOscillator/AKOscillatorDSPKernel.hpp,132
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKMoogLadder/AKMoogLadderDSPKernel.hpp,126
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKStringResonator/AKStringResonatorDSPKernel.hpp,126
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandRejectButterworthFilter/AKBandRejectButterworthFilterDSPKernel.hpp,126
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKModalResonanceFilter/AKModalResonanceFilterDSPKernel.hpp,126
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandPassButterworthFilter/AKBandPassButterworthFilterDSPKernel.hpp,126
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDecimator/AKDecimatorDSPKernel.hpp,126
+veloperTools/yaml/generators/fosc.yaml,93
+dioKit/AudioKit/Internals/Soundpipe/modules/vdelay.c,97
+dioKit/AudioKit/Internals/Soundpipe/modules/moogladder.c,100
+dioKit/AudioKit/Internals/Soundpipe/modules/randmt.c,136
+veloperTools/data2yaml.lua,98
+dioKit/AudioKit/Internals/Soundpipe/modules/fosc.c,101
+dioKit/AudioKit/Internals/Soundpipe/modules/lpf18.c,97
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKCombFilter/AKCombFilterDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKLowPassButterworthFilter/AKLowPassButterworthFilterDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Generators/Random Generators/AKWhiteNoise/AKWhiteNoiseDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKHighPassButterworthFilter/AKHighPassButterworthFilterDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKFlatFrequencyResponseReverb/AKFlatFrequencyResponseReverbDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighPassFilter/AKHighPassFilterDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Analysis/AKTrackedAmplitude/AKTrackedAmplitudeDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKDelay/AKDelayDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowPassFilter/AKLowPassFilterDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKPhasor/AKPhasorDSPKernel.hpp,110
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKVariableDelay/AKVariableDelayDSPKernel.hpp,110
+dioKit/AudioKit/Internals/Soundpipe/modules/tbvcf.c,112
+dioKit/AudioKit/Internals/Soundpipe/modules/streson.c,82
+dioKit/AudioKit/Internals/Soundpipe/modules/butbp.c,85
+dioKit/AudioKit/Internals/Soundpipe/modules/fofilt.c,88
+dioKit/AudioKit/Internals/Soundpipe/modules/buthp.c,87
+dioKit/AudioKit/Internals/Soundpipe/modules/butlp.c,84
+dioKit/AudioKit/Internals/Soundpipe/modules/butbr.c,78
+dioKit/AudioKit/Internals/Soundpipe/modules/mode.c,87
+dioKit/AudioKit/Internals/AKParameterRamper.hpp,89
+veloperTools/yaml/dev/drip.yaml,68
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDCBlock/AKDCBlockDSPKernel.hpp,91
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKChowningReverb/AKChowningReverbDSPKernel.hpp,91
+dioKit/AudioKit/Internals/Soundpipe/lib/faust/CUI.h,110
+dioKit/AudioKit/Internals/Soundpipe/modules/osc.c,72
+dioKit/AudioKit/Internals/Soundpipe/modules/eqfil.c,75
+dioKit/AudioKit/Internals/Soundpipe/modules/dist.c,73
+veloperTools/yaml/effects/scale.yaml,60
+dioKit/AudioKit/Internals/AKBufferedAudioBus.hpp,94
+veloperTools/yaml/effects/dist.yaml,57
+veloperTools/yaml/effects/tbvcf.yaml,57
+veloperTools/yaml/dev/gbuzz.yaml,58
+veloperTools/yaml/effects/comb.yaml,58
+veloperTools/yaml/effects/pareq-high2.yaml,57
+veloperTools/yaml/effects/pareq-peaking0.yaml,57
+dioKit/AudioKit/Internals/Soundpipe/modules/delay.c,51
+veloperTools/yaml/effects/pareq-low1.yaml,57
+dioKit/AudioKit/Internals/Soundpipe/modules/tone.c,68
+veloperTools/yaml/effects/eqfil.yaml,54
+dioKit/AudioKit/Internals/Soundpipe/modules/atone.c,63
+dioKit/AudioKit/Internals/Soundpipe/modules/comb.c,61
+dioKit/AudioKit/Internals/AKDSPKernel.mm,76
+dioKit/AudioKit/Internals/Soundpipe/modules/allpass.c,60
+veloperTools/yaml/effects/clip.yaml,52
+veloperTools/yaml/effects/lpf18.yaml,50
+veloperTools/yaml/dev/tenv.yaml,50
+veloperTools/yaml/effects/fofilt.yaml,50
+dioKit/AudioKit/Internals/Soundpipe/modules/decimator.c,43
+dioKit/AudioKit/Internals/Soundpipe/modules/rms.c,60
+dioKit/AudioKit/Internals/Soundpipe/modules/fold.c,53
+dioKit/AudioKit/Internals/Soundpipe/modules/phasor.c,53
+veloperTools/yaml/effects/allpass.yaml,45
+veloperTools/yaml/effects/revsc.yaml,45
+dioKit/AudioKit/Internals/Soundpipe/modules/dcblock.c,51
+dioKit/AudioKit/AudioKit.h,47
+veloperTools/yaml/effects/streson.yaml,41
+veloperTools/yaml/effects/delay.yaml,42
+veloperTools/yaml/effects/butbr.yaml,43
+veloperTools/yaml/effects/butbp.yaml,42
+dioKit/AudioKit/Internals/Soundpipe/lib/inih/ini.h,77
+veloperTools/yaml/effects/vdelay.yaml,43
+veloperTools/yaml/effects/mode.yaml,42
+veloperTools/yaml/effects/moogladder.yaml,41
+veloperTools/yaml/dev/randi.yaml,40
+veloperTools/yaml/effects/decimator.yaml,41
+veloperTools/yaml/generators/osc.yaml,41
+veloperTools/yaml/dev/jitter.yaml,38
+veloperTools/yaml/dev/tenv2.yaml,36
+dioKit/AudioKit/Internals/Soundpipe/modules/scale.c,29
+dioKit/AudioKit/Internals/Soundpipe/modules/noise.c,29
+veloperTools/yaml/generators/phasor.yaml,32
+veloperTools/yaml/effects/buthp.yaml,33
+veloperTools/yaml/effects/rms.yaml,34
+veloperTools/yaml/effects/butlp.yaml,33
+veloperTools/yaml/effects/atone.yaml,32
+veloperTools/yaml/effects/tone.yaml,32
+veloperTools/yaml/dev/bal.yaml,30
+veloperTools/yaml/dev/reverse.yaml,30
+veloperTools/yaml/dev/port.yaml,29
+veloperTools/yaml/dev/panst.yaml,30
+dioKit/AudioKit/Internals/AKDSPKernel.hpp,36
+veloperTools/yaml/effects/jcrev.yaml,27
+sts/OSXAudioKit/OSXAudioKit/AKAudioUnitRenderCallback.m,29
+veloperTools/yaml/dev/random.yaml,27
+veloperTools/yaml/generators/noise.yaml,25
+veloperTools/yaml/dev/metro.yaml,22
+veloperTools/yaml/effects/dcblock.yaml,20
+ravis.yml,9
+sts/travis.sh,8
+dioKit/AudioKit/Operations/Signal Modifiers/Effects/AKDistortion/AKDistortionAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKFMOscillator/AKFMOscillatorAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighPassFilter/AKHighPassFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKEqualizerFilter/AKEqualizerFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKHighShelfParametricEqualizerFilter/AKHighShelfParametricEqualizerFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandPassButterworthFilter/AKBandPassButterworthFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDCBlock/AKDCBlockAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKVariableDelay/AKVariableDelayAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKStringResonator/AKStringResonatorAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKChowningReverb/AKChowningReverbAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Delays/AKDelay/AKDelayAudioUnit.h,17
+dioKit/AudioKit/Operations/Math/AKLinearTransformation/AKLinearTransformationAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKThreePoleLowpassFilter/AKThreePoleLowpassFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Analysis/AKTrackedAmplitude/AKTrackedAmplitudeAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKHighPassButterworthFilter/AKHighPassButterworthFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowShelfParametricEqualizerFilter/AKLowShelfParametricEqualizerFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKLowPassFilter/AKLowPassFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKOscillator/AKOscillatorAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKRolandTB303Filter/AKRolandTB303FilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKMoogLadder/AKMoogLadderAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKClipper/AKClipperAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKLowPassButterworthFilter/AKLowPassButterworthFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Generators/Random Generators/AKWhiteNoise/AKWhiteNoiseAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKPeakingParametricEqualizerFilter/AKPeakingParametricEqualizerFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKCombFilter/AKCombFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Reverbs/AKFlatFrequencyResponseReverb/AKFlatFrequencyResponseReverbAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/Butterworth Filters/AKBandRejectButterworthFilter/AKBandRejectButterworthFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Generators/Oscillators/AKPhasor/AKPhasorAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKDecimator/AKDecimatorAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKFormantFilter/AKFormantFilterAudioUnit.h,17
+dioKit/AudioKit/Operations/Signal Modifiers/Filters/AKModalResonanceFilter/AKModalResonanceFilterAudioUnit.h,17
+sts/OSXAudioKit/OSXAudioKitTests/OSXAudioKitTests-Bridging-Header.h,8
+sts/OSXAudioKit/OSXAudioKitTests/OSXAudioKit-Bridging-Header.h,6

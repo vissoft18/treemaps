@@ -1,0 +1,17 @@
+id,weight
+acemacs/packages.el,1430
+acemacs/funcs.el,518
+acemacs/extensions/centered-cursor/centered-cursor-mode.el,421
+re/ht.el,280
+acemacs/keybindings.el,217
+acemacs/extensions.el,187
+re/contribsys.el,174
+acemacs/extensions/dos/dos.el,255
+re/spacemacs-mode.el,101
+ntrib/syl20bnr/packages.el,79
+acemacs/config.el,213
+acemacs/extensions/rcirc-reconnect/rcirc-reconnect.el,113
+it.el,33
+ntrib/syl20bnr/funcs.el,18
+ntrib/syl20bnr/extensions.el,11
+ntrib/syl20bnr/config.el,3

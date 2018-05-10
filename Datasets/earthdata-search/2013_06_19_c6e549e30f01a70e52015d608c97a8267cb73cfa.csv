@@ -1,0 +1,15 @@
+id,weight
+blic/index.html,241
+blic/404.html,26
+blic/422.html,26
+blic/500.html,25
+p/assets/stylesheets/modules/doc_example.css.scss,20
+st/performance/browsing_test.rb,12
+st/test_helper.rb,13
+ript/rails,6
+p/controllers/application_controller.rb,3
+p/assets/javascripts/modules/doc_example.js.coffee,3
+p/helpers/application_helper.rb,2
+p/assets/stylesheets/application.css.scss,1
+added/seeds.rb,7
+p/assets/javascripts/application.js,15

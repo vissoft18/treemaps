@@ -10,6 +10,8 @@ you can find a README that explains the complation and execution of the programs
 the evaluation of the treemapping techniques. More information about the datasets 
 can be found in the paper.
 
+Videos of the executions can be found at: https://www.youtube.com/playlist?list=PLy5Y4CMtJ7mJZ29-mKHxHzirsnNZmasT5
+
 Lastly, `Figures` holds all the visualizations generated for all datasets. This includes
 all the figures that couldn't make it into the paper for lack of space. `README.pdf` explains
 the design choices of the plots. `Figures/Code` includes the code that generated the
